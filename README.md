@@ -1,4 +1,4 @@
-# FutureTale-Hotel-Booking
+# FutureTale Hotel Booking Cancellation Rate
 
 ![](image_R.webp)
 
@@ -41,6 +41,7 @@ After I did data cleaning, I utilise Excel's functionalities for exploratory dat
 ### Overall Booking and Cancellation Analysis
 - The analysis reveals that out of a total of 36,275 bookings, 33% were canceled, indicating a very high proportion of reservations being cancelled. On the other hand, 67% of the bookings were successfully redeemed.
 ### Cancelation trend for the period in view
+![](image_2.png)
 - In the year 2017, the hotel recorded a total of 6,514 bookings, demonstrating a cancelation rate of 15% and a redemption rate of 85%. As we move to the year 2018, the total bookings increased to 29,761 but the cancellation rate also saw a rise to 37% resulting in redemption rate of 63%. 
 - From 2017 to 2018. this analysis unraveled an additional 22% increase in booking cancellations with a corresponding decline in the redeemed bookings of clients at future Tale
 ### Meal Plan and Room type Impacts
@@ -49,3 +50,13 @@ After I did data cleaning, I utilise Excel's functionalities for exploratory dat
 
 ## Conclusion
 The FutureTale Hotel reservation analysis showcase the synergy between data and strategy, creating a narrative of resilience, adaptability, and success in the ever-evolving world of hospitality
+
+## Recommendation
+- Package Deals: Develop enticing package deals that include meal plans, aiming to increase the overall value proposition for guests. Consider offering flexible meal plan options to cater to different guest preferences.
+- Promotional Campaigns: Launch targeted promotional campaigns highlighting the benefits of booking packages with meal plans, emphasizing the added value and convenience for guests.
+- Review Room Type Policies: Evaluate the cancellation policies for room types with increased cancellation rates. If possible, adjust policies to make them more guest-friendly while ensuring operational feasibility.
+- Dynamic Pricing: Implement dynamic pricing strategies to adjust room rates based on demand, seasonality, and booking trends. Offering competitive rates during periods with historically lower cancellations may encourage more reservations.
+- Diversification: Explore opportunities to diversify the guest base by tapping into segments with historically lower cancellation rates. Consider partnerships or collaborations to attract a more stable clients. Tailor marketing and promotional strategies to target high-cancellation segments with personalized offers, loyalty programs, or exclusive deals.
+
+
+
