@@ -10,7 +10,6 @@
 - [Data Sources](#data-sources)
 - [Data processing](#data-processing)
 - [Data Visualization](#Data-Visualization)
-- [Evaluation Metrics](#evaluation-metrics)
 - [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 
